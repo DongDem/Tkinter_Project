@@ -1,0 +1,2 @@
+model_checkpoint_path: "cohn_kanade_with_range_loss_alexnet_fold9.ckpt"
+all_model_checkpoint_paths: "cohn_kanade_with_range_loss_alexnet_fold9.ckpt"
